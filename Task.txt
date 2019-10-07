@@ -2,3 +2,4 @@ password
 pwd
 secret
 hash
+mysql://localhost:3306@username:password/new_database
